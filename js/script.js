@@ -1,13 +1,5 @@
 window.onload = function onLoad() {
-
-  $('#one').delay(0).fadeIn(500);
-  $('#two').delay(200).fadeIn(500);
-  $('.location').delay(300).fadeIn(300);
-  $('.current').delay(400).fadeIn(300);
-  $('.past').delay(500).fadeIn(300);
-  $('.quote-container').delay(600).fadeIn(300);
-  $('.social-list-container').delay(700).fadeIn(300);
-  $('.me').delay(1100).fadeIn(1500);
+  $('.me').delay(200).fadeIn(1500);
 
   var loopTime = 7000;
 
